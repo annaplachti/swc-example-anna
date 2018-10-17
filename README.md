@@ -8,3 +8,4 @@ Quick Markdown Overview
 - include [links](https://embl.de) with [] and ()
 - nothing else
 - create *italic* text with '*'
+- type `code` with backticks
