@@ -7,3 +7,4 @@ Quick Markdown Overview
 - create **bold text** with **
 - include [links](https://embl.de) with [] and ()
 - nothing else
+- create *italic* text with '*'
