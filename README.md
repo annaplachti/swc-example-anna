@@ -5,4 +5,5 @@ Quick Markdown Overview
 
 - write bullet lists with '-'
 - create **bold text** with **
-- include [links] (https://embl.de) with [] and ()
+- include [links](https://embl.de) with [] and ()
+- nothing else
