@@ -3,6 +3,7 @@ An example project for the Git lesson in EMBL Software Carpentry
 
 Quick Markdown Overview
 
+- other
 - write bullet lists with '-'
 - create **bold text** with **
 - include [links](https://embl.de) with [] and ()
